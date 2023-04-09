@@ -1,0 +1,8 @@
+Log file created at: 2023/04/02 21:21:05
+Running on machine: melody
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0402 21:21:05.401548 26124 function.cpp:12] read finsh.
+I0402 21:21:05.416379 26124 function.cpp:12] read finsh.
+I0402 21:21:05.844233 26124 main.cpp:121] stereo calibration done with rms error = 0.215779
+I0402 21:21:05.844305 26124 main.cpp:127] start rectify
+I0402 21:21:05.845444 26124 main.cpp:136] after remap 图像已经共面且已经对准

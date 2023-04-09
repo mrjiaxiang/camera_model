@@ -1,0 +1,3 @@
+/home/melody/slam/camera_model/stereo/build/CMakeFiles/rebuild_cache.dir
+/home/melody/slam/camera_model/stereo/build/CMakeFiles/edit_cache.dir
+/home/melody/slam/camera_model/stereo/build/CMakeFiles/stereo_node.dir

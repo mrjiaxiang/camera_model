@@ -1,0 +1,4 @@
+Log file created at: 2023/03/26 15:39:45
+Running on machine: melody
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0326 15:39:45.131565 30271 function.cpp:12] read finsh.

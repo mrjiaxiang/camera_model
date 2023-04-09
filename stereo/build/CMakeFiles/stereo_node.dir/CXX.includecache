@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/melody/slam/camera_model/stereo/include/function.h
+opencv2/opencv.hpp
+-
+string
+-
+vector
+-
+
+/home/melody/slam/camera_model/stereo/src/main.cpp
+glog/logging.h
+-
+opencv2/opencv.hpp
+-
+fstream
+-
+string
+-
+../include/function.h
+/home/melody/slam/camera_model/stereo/include/function.h
+
